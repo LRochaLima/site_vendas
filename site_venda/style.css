@@ -1,0 +1,30 @@
+body{
+    margin: auto;
+    max-width: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-img {
+    height: 450px; /* Altere para a altura desejada */
+    margin: 12px;
+}
+
+.centralizado {
+    text-align: center; /* Define o alinhamento justificado */
+}
+
+.conteudo {
+    width: auto;
+    max-width: auto;
+    min-width: auto;
+    margin: 20px auto;
+}
+
+.sticky-top {
+    margin: auto;
+    max-width: auto;
+    margin-top: auto;    
+}
